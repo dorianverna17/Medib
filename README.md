@@ -1,4 +1,4 @@
-MediB - an app by Bulangii de la ACS
+MediB
 
 	credits to - Corcodel Iulia Maria
 		   - Oprea Theodor-Alin
