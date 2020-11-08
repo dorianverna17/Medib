@@ -1,0 +1,91 @@
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Medib.exe.config
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Medib.exe
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Medib.pdb
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.csprojAssemblyReference.cache
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Properties.Resources.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.csproj.GenerateResource.cache
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.exe
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.pdb
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form1.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form2.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form4.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form3.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.csproj.CopyComplete
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Flurl.dll
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Flurl.Http.dll
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Flurl.xml
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\bin\Debug\Flurl.Http.xml
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Medib.exe.config
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Medib.exe
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Medib.pdb
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Flurl.dll
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Flurl.Http.dll
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Flurl.xml
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Flurl.Http.xml
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.csprojAssemblyReference.cache
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.Form1.resources
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.Form2.resources
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.Form3.resources
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.Form4.resources
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.Properties.Resources.resources
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.csproj.GenerateResource.cache
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.csproj.CoreCompileInputs.cache
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.csproj.CopyComplete
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.exe
+C:\Users\Theodor\Desktop\hakaton\repo\Medib\Medib\obj\Debug\Medib.pdb
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form5.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form6.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form7.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.csprojAssemblyReference.cache
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form1.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form2.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form3.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form4.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form5.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form6.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Form7.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.Properties.Resources.resources
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.csproj.GenerateResource.cache
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.exe
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.pdb
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Medib.exe.config
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Medib.exe
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Medib.pdb
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Flurl.dll
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Flurl.Http.dll
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Flurl.xml
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Flurl.Http.xml
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Programare C#\Medical project - MSP\Proj\Medib\Medib\obj\Debug\Medib.csproj.CopyComplete
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form8.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Medib.exe.config
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Medib.exe
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Medib.pdb
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Flurl.dll
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Flurl.Http.dll
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Flurl.xml
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Flurl.Http.xml
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.csprojAssemblyReference.cache
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form1.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form2.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form3.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form4.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form5.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form6.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form7.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Form8.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.Properties.Resources.resources
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.csproj.GenerateResource.cache
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.csproj.CopyComplete
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.exe
+D:\Work\Programare C#\Medical project - MSP\Project_onemore\Medib\Medib\obj\Debug\Medib.pdb
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form9.resources
+C:\Users\Theodor\Desktop\hakaton\repo\hackathon-bulangii-de-la-acs\Medib\Medib\obj\Debug\Medib.Form10.resources
